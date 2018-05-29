@@ -7,10 +7,10 @@ package com.design.facade;
  */
 public class Disk {
 	public void start(){
-		System.out.println("cpu is start ......");
+		System.out.println("Disk is start ......");
 	}
 	
 	public void shutDown(){
-		System.out.println("cpu is shutDown .....");
+		System.out.println("Disk is shutDown .....");
 	}
 }
